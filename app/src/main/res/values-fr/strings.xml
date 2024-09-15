@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratoire Android Komal</string>
+    <string name="SL">Bonjour</string>
+    <string name="button_message">je suis un bouton</string>
+</resources>
